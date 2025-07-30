@@ -1,5 +1,5 @@
 # Triton Sensor Data Cleansing & Partitioning Pipeline
-## Adnan Bashir
+## Adnan Bashir - UNM & State of NM
 ### 30th July 2025
 
 This repository contains a Python script to preprocess, clean, and partition IoT sensor data (Heartbeats and Alerts) from Triton ULTRA and Triton PRO devices. The script prepares data for scalable analytics, AWS S3 upload, and AWS Glue/Athena consumption.
